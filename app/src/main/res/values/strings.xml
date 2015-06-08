@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Libretto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selezione_operazione">SelezioneOperazioneActivity</string>
+    <string name="title_activity_gestione_spese">GestioneSpeseActivity</string>
+    <string name="title_activity_visualizza_spese">VisualizzaSpeseActivity</string>
+
+</resources>
